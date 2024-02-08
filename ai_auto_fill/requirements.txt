@@ -1,0 +1,8 @@
+bs4
+requests
+openai
+scrapy
+openpyxl
+python-docx
+python-pptx
+nltk
